@@ -20,3 +20,4 @@ const Product2 = {
 
 console.log(Product2);
 
+// node "Chapter1.js"
